@@ -1,0 +1,57 @@
+header {
+    background: url(Crema\ Simple\ Minimalista\ Viajes\ YouTube\ Banner.png);
+    background-size: cover;
+    color: white;
+    padding: 5em 5em;
+    text-align: center;  
+  }
+  
+  header h1 {
+    margin-top: 0;  
+  }
+  
+  section {
+    padding: 2em 1em;
+  }
+  
+  #about {
+    background-color: #f9f9f9;
+  }
+  
+  #about p {
+    width: 60%;
+    margin: 0 auto;  
+  }
+  
+  #photos {
+    text-align: center;
+  }
+  
+  #photos img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%; 
+    margin: 1em;
+  }
+  
+  #mission {
+    background: linear-gradient(#007db7, #004e79);
+    color: white;  
+    padding: 2em 1em;
+    text-align: center;
+  } 
+  
+  #vision {
+    text-align: center; 
+  }
+  
+  footer {
+    background-color: #333333;
+    color: white;
+    padding: 2em 1em;
+    text-align: center;  
+  }
+
+  footer
+
